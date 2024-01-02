@@ -1,0 +1,7 @@
+.Add_btn,
+.Sub_btn,
+.Save_btn{
+    background-color: aliceblue;
+    border-color: blue;
+    border-radius: 5px;
+}
